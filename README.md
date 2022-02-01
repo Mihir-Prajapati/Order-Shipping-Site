@@ -4,20 +4,19 @@ Creating React Project with Firestore for storing data.
 ### Images of Project
 
 #### Main Page
-
 ![HomePage](OutputImage/1.png)
 
 #### Search by City Name
-
 ![HomePage](OutputImage/2.png)
 
 ####
-
 ![HomePage](OutputImage/3.png)
 
+<br> </br>
 #### Add New Customer
 ![HomePage](OutputImage/AddNewCustomer.png)
 
+<br> </br>
 #### Purchase Order
 ![HomePage](OutputImage/PurchaseOrder.png)
 
