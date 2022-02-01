@@ -45,8 +45,7 @@ function App() {
             <ShippingDetails customers={customers} />
           </Route>
           <Route path="/" >
-            <AddNewCustomer />
-            {/* <MainPage customers={customers}/> */}
+            <MainPage customers={customers}/>
             
           </Route>
 
